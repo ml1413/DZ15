@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">DZ15</string>
+    <string-array name="city_Ukraine">
+        <item>Kiev</item>
+        <item>London</item>
+        <item>Baku</item>
+        <item>Vena</item>
+        <item>Tokyo</item>
+        <item>Oslo</item>
+    </string-array>
 </resources>
